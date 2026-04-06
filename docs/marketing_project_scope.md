@@ -79,7 +79,7 @@ The findings are expected to support digital marketing managers and analysts in 
 | Milestone | Description | Status |
 |-----------|-------------|--------|
 | Project Scope | Define business questions and project plan | ✅ Done |
-| Data Cleaning | Validate and clean raw data via Power Query | ⬜ Pending |
+| Data Cleaning | Validate and clean raw data via Power Query | ✅ Done |
 | Channel Performance Analysis | Analysis and findings | ⬜ Pending |
 | Campaign Success Factors Analysis | Analysis and findings | ⬜ Pending |
 | Regional Performance Analysis | Analysis and findings | ⬜ Pending |
