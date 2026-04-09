@@ -81,7 +81,7 @@ The findings are expected to support digital marketing managers and analysts in 
 | Project Scope | Define business questions and project plan | ✅ Done |
 | Data Cleaning | Validate and clean raw data via Power Query | ✅ Done |
 | Channel Performance Analysis | Analysis and findings | ✅ Done |
-| Campaign Success Factors Analysis | Analysis and findings | ⬜ Pending |
+| Campaign Success Factors Analysis | Analysis and findings | ✅ Done |
 | Regional Performance Analysis | Analysis and findings | ⬜ Pending |
 | Dashboard | Interactive Excel dashboard | ⬜ Pending |
 | Final Documentation | README with summary and insights | ⬜ Pending |
