@@ -1,23 +1,6 @@
-Conversion Rate per Channel,,,,,,
-Channel,Avg. Conversion Rate,Rank,,Channel,Avg. Conversion Rate,Rank
-email,457295172.8,1,,email,457295172.8,1
-influencer,455828492.6,3,,content marketing,456802155.2,2
-content marketing,456802155.2,2,,influencer,455828492.6,3
-search engine,445788190.7,5,,social media,451619262,4
-social media,451619262,4,,search engine,445788190.7,5
-,,,,,,
-Success Rate per Channel,,,,,,
-Channel,Total Campaign,Total Success,Success Rate,,,
-email,1943,1748,89.96%,,,
-influencer,1967,1748,88.87%,,,
-content marketing,2140,1919,89.67%,,,
-search engine,1997,1789,89.58%,,,
-social media,1953,1763,90.27%,,,
-,,,,,,
-Avg Ad Spend: Success vs Unsuccessful per Channel,,,,,,
-Channel,Avg Spend (Success), Avg Spend (Unsuccessful),,,,
-email,27048.1905,26600.25128,,,,
-influencer,27121.5492,26403.95434,,,,
-content marketing,27333.32413,28861.30317,,,,
-search engine,27675.67468,27924.96154,,,,
-social media,27245.81566,27984.88421,,,,
+channel,avg_conversion_rate,success_rate,avg_adspend_success,avg_adspend_fail
+email,49.57%,89.96%,27048.19,26600.25
+influencer,50.31%,88.87%,27121.55,26403.95
+content marketing,50.46%,89.67%,27333.32,28861.3
+search engine,49.30%,89.58%,27675.67,27924.96
+social media,49.80%,90.27%,27245.82,27984.88
