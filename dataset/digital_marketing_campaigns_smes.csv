@@ -1,6 +1,6 @@
-channel,avg_conversion_rate,success_rate,avg_adspend_success,avg_adspend_fail
-email,49.57%,89.96%,27048.19,26600.25
-influencer,50.31%,88.87%,27121.55,26403.95
-content marketing,50.46%,89.67%,27333.32,28861.3
-search engine,49.30%,89.58%,27675.67,27924.96
-social media,49.80%,90.27%,27245.82,27984.88
+Region,avg_conversion_rate,success_rate,avg_audience_reach
+Europe,49.37%,88.44%,316396.0379
+Africa,49.91%,89.66%,295767.804
+North America,49.44%,90.08%,304966.1509
+South America,50.51%,89.75%,308078.9253
+Asia-Pacific,50.26%,90.43%,302061.75
