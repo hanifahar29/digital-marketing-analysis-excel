@@ -82,7 +82,7 @@ The findings are expected to support digital marketing managers and analysts in 
 | Data Cleaning | Validate and clean raw data via Power Query | ✅ Done |
 | Channel Performance Analysis | Analysis and findings | ✅ Done |
 | Campaign Success Factors Analysis | Analysis and findings | ✅ Done |
-| Regional Performance Analysis | Analysis and findings | ⬜ Pending |
+| Regional Performance Analysis | Analysis and findings | ✅ Done |
 | Dashboard | Interactive Excel dashboard | ⬜ Pending |
 | Final Documentation | README with summary and insights | ⬜ Pending |
 
